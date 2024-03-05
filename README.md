@@ -2,7 +2,7 @@
 
 1. Скачать бота из репозитория
 2. Установить библиотеки:
-[CODE=code]pip install aiogram, apscheduler, matplotlib, pandas, requests, openpyxl[/CODE]
+pip install aiogram, apscheduler, matplotlib, pandas, requests, openpyxl
 3. Вставить токен вашего бота в /components/config.py в соответствующую переменную и сохранить
 4. Запустить main.py
 
